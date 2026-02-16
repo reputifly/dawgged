@@ -749,7 +749,7 @@ header.scrolled {
 }
 
 .footer-section .logo-img {
-    filter: none;
+    filter: brightness(0) invert(1);
     margin-bottom: 20px;
     width: 150px;
     height: auto;
